@@ -25,6 +25,8 @@ This tool is designed for **security research and educational purposes only**. I
 - **Result Display**: Formatted display of recovered private keys
 - **Balance Checking**: Verify if recovered addresses have funds
 - **Download Options**: Export results in JSON format
+  ![image](https://github.com/user-attachments/assets/7cf1a937-703b-4e22-a837-349507240a75)
+
 
 ## 📋 Prerequisites
 

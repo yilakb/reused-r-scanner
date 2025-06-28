@@ -1,0 +1,17 @@
+[
+  {
+    "private_key": "192bb93a5ff6e233f982064b2528a68f271efb0d046b2822feecf0005eef6e03",
+    "compressed_pubkey": "02f5ea0caf16f55ebaf94d64b24634974df283d4856d730b01619f76cf73ee59a6",
+    "uncompressed_pubkey": "04f5ea0caf16f55ebaf94d64b24634974df283d4856d730b01619f76cf73ee59a66e98c6b5af43b8ed9ebfc010e529a4137a17f5dcb8dc23a00971ce40ea898380",
+    "compressed_address": "1GhmmqQffgvCNWna82zHLa8GuwjLojEz7f",
+    "uncompressed_address": "19qnLpn9it7csR9sEay1XrFyfAmUNoXYk4",
+    "compressed_hash160": "ac3fe65cec88b8bc5200691a4a8c8b733ec1eac7",
+    "uncompressed_hash160": "60fad2651ffb2c655f941de9338fe9a302f7c168",
+    "tx1": "f92d4310ccc12bc41d2e51ab17b80c942a9343fce7a63a41e3d2db646fe05661",
+    "tx1_input": 0,
+    "tx2": "f92d4310ccc12bc41d2e51ab17b80c942a9343fce7a63a41e3d2db646fe05661",
+    "tx2_input": 1,
+    "tx1_match": true,
+    "tx2_match": true
+  }
+]

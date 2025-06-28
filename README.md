@@ -51,8 +51,9 @@ This tool is designed for **security research and educational purposes only**. I
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd reused_r_scanner
+git clone https://github.com/yilakb/reused-r-scanner.git
+cd reused-r-scanner
+
 ```
 
 ### 2. Install Dependencies

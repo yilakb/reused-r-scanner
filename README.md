@@ -182,8 +182,7 @@ Each recovered key includes:
 4. **Regular Updates**: Keep Bitcoin Core and dependencies updated
 
 ### Ethical Usage
-- Only scan blocks you own or have permission to analyze ![image](https://github.com/user-attachments/assets/fe08e650-e331-41fb-887d-7f9c131c3429)
-
+- Only scan blocks you own or have permission to analyze :) 
 - Respect privacy and don't exploit found vulnerabilities
 - Report significant findings to the Bitcoin community
 - Use for educational and research purposes only
